@@ -1,0 +1,6 @@
+# JetBrains IDEs
+.idea
+
+# development
+dist
+node_modules
