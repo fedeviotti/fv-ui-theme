@@ -1,5 +1,5 @@
 {
-  "name": "fv-ui-theme",
+  "name": "@fedeviotti/fv-ui-theme",
   "version": "1.0.10",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -7,6 +7,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "rollup -c",
     "build:types": "tsc --emitDeclarationOnly",
