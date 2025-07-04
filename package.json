@@ -1,6 +1,6 @@
 {
   "name": "@fedeviotti/fv-ui-theme",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
